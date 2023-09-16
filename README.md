@@ -12,7 +12,7 @@ This program generates a painting in the style of Damien Hirst's spot paintings 
 # Usage
 
 ```bash
-python hirst_painting.py
+python hirstPainting.py
 ```
 
 # Rules
