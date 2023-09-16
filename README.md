@@ -5,7 +5,7 @@ This program generates a painting in the style of Damien Hirst's spot paintings 
 ## How to Run
 
 1. Make sure you have Python installed.
-2. Run the 'hirst_painting.py' file.
+2. Run the 'hirstPainting.py' file.
 3. A Turtle graphics window will open, and you'll see a grid of randomly colored dots.
 4. Click anywhere on the screen to close the window.
 
